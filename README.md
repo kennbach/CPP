@@ -1,3 +1,3 @@
 # CPP
 
-C++ created while watching The Cherno's C++ playlist.
+C++ created while watching The Cherno's C++ playlist
